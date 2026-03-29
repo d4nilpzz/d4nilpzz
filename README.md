@@ -1,2 +1,2 @@
 ### Stack
-[![Skills](https://skillicons.dev/icons?i=react,tailwind,ts,astro,nextjs,postgresql,java)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,ts,astro,nextjs,postgresql,java)](https://skillicons.dev)
